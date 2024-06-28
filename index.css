@@ -1,0 +1,107 @@
+body{
+ margin: 0;
+ padding: 0%;
+ line-height: 2;
+ background-color:lavenderblush;
+}
+header{
+    background-color:chocolate;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 1.5em 0;
+    text-decoration-color: aliceblue;
+}
+nav{
+    text-align: center;
+    background-color: darkslategrey;
+    justify-content: center;
+    padding:1em 0;
+}
+a{
+    text-decoration-line: none;
+    color: gainsboro;
+    font-size: 20px;
+    
+}
+#p11{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 20px;
+ color: #52546C;
+}
+#p12{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #2E3C43;
+}
+#p13{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #225726;
+}
+main{
+    background-color: #eae0f2;
+    margin: 0;
+    padding:1.5em 0;
+    display: block;
+    padding-bottom: 0%;
+}
+footer{
+    text-align: center;
+    background-color: bisque;
+    justify-content: center;
+    line-height: 5;
+    font-style: italic;
+}
+@media only screen and (max-width=600px){
+    header{
+        background-color:chocolate;
+        display: block;
+        color:white;
+        text-align: center;
+        padding: 1.5em 0;
+        text-decoration-color: aliceblue;
+    }
+    nav{
+        text-align: center;
+        background-color: darkslategrey;
+        justify-content: center;
+        padding:1em 0;
+    }
+    a{
+        text-decoration-line: none;
+        color: gainsboro;
+        font-size: 20px;
+        
+    }
+    #p11{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 20px;
+     color: #52546C;
+    }
+    #p12{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px;
+        color: #2E3C43;
+    }
+    #p13{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        color: #225726;
+    }
+    main{
+        background-color: #eae0f2;
+        margin: 0;
+        padding:1.5em 0;
+        display: block;
+        padding-bottom: 0%;
+    }
+    footer{
+        text-align: center;
+        background-color: bisque;
+        justify-content: center;
+        line-height: 5;
+        font-style: italic;
+
+    
+}
